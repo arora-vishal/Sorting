@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MindTickle</string>
+
+    <string-array name="sorting_methods">
+        <item> Quick Sort</item>
+        <item> Bubble Sort</item>
+        <item> Selection Sort</item>
+    </string-array>
+</resources>
